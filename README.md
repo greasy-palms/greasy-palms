@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @greasy-palms
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning networking & cloud and py
-- 💞️ I’m looking to collaborate on app development, wed development
+- 💞️ I’m looking to collaborate on app development, web and api  development
 - 📫 How to reach me d12@gmail.com
 
 <!---
